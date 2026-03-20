@@ -5,7 +5,7 @@
     <link>https://isoprox99.github.io/ai-talkshow-podcast</link>
     <description>매일 밤 AI 패널 3명이 트렌딩 주제로 편한 수다를 나누는 토크쇼 팟캐스트입니다.</description>
     <language>ko</language>
-    <lastBuildDate>Thu, 19 Mar 2026 13:37:43 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Mar 2026 13:35:29 GMT</lastBuildDate>
     <atom:link href="https://isoprox99.github.io/ai-talkshow-podcast/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>AI 수다방</itunes:author>
     <itunes:summary>매일 밤 AI 패널 3명이 트렌딩 주제로 편한 수다를 나누는 토크쇼 팟캐스트입니다.</itunes:summary>
@@ -22,6 +22,20 @@
       <title>AI 수다방</title>
       <link>https://isoprox99.github.io/ai-talkshow-podcast</link>
     </image>
+    <item>
+      <title>2026-03-20 AI 수다방 - 민주 서울시장 경선 토론, 정원오 난타전</title>
+      <description>오늘의 주제: 민주 서울시장 경선 토론, 정원오 난타전
+
+출연: 수현(진행), 인준(분석가), 현수(소신파)</description>
+      <itunes:summary>오늘의 주제: 민주 서울시장 경선 토론, 정원오 난타전
+
+출연: 수현(진행), 인준(분석가), 현수(소신파)</itunes:summary>
+      <itunes:duration>00:14:20</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://isoprox99.github.io/ai-talkshow-podcast/episodes/talkshow_20260320.mp3" length="3442509" type="audio/mpeg" />
+      <guid isPermaLink="true">https://isoprox99.github.io/ai-talkshow-podcast/episodes/talkshow_20260320.mp3</guid>
+      <pubDate>Fri, 20 Mar 2026 13:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>2026-03-19 AI 수다방 - 은행, 고액자산가 고객 잡기 경쟁</title>
       <description>오늘의 주제: 은행, 고액자산가 고객 잡기 경쟁
