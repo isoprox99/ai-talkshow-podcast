@@ -5,7 +5,7 @@
     <link>https://isoprox99.github.io/ai-talkshow-podcast</link>
     <description>매일 밤 AI 패널 3명이 트렌딩 주제로 편한 수다를 나누는 토크쇼 팟캐스트입니다.</description>
     <language>ko</language>
-    <lastBuildDate>Sat, 21 Mar 2026 13:42:12 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Mar 2026 13:36:12 GMT</lastBuildDate>
     <atom:link href="https://isoprox99.github.io/ai-talkshow-podcast/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>AI 수다방</itunes:author>
     <itunes:summary>매일 밤 AI 패널 3명이 트렌딩 주제로 편한 수다를 나누는 토크쇼 팟캐스트입니다.</itunes:summary>
@@ -22,6 +22,20 @@
       <title>AI 수다방</title>
       <link>https://isoprox99.github.io/ai-talkshow-podcast</link>
     </image>
+    <item>
+      <title>2026-03-22 AI 수다방 - project hail mary</title>
+      <description>오늘의 주제: project hail mary
+
+출연: 수현(진행), 인준(분석가), 현수(소신파)</description>
+      <itunes:summary>오늘의 주제: project hail mary
+
+출연: 수현(진행), 인준(분석가), 현수(소신파)</itunes:summary>
+      <itunes:duration>00:14:46</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://isoprox99.github.io/ai-talkshow-podcast/episodes/talkshow_20260322.mp3" length="3545229" type="audio/mpeg" />
+      <guid isPermaLink="true">https://isoprox99.github.io/ai-talkshow-podcast/episodes/talkshow_20260322.mp3</guid>
+      <pubDate>Sun, 22 Mar 2026 13:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>2026-03-21 AI 수다방 - 김민석, 유시민에 '강남 지식인' 문자 논란</title>
       <description>오늘의 주제: 김민석, 유시민에 '강남 지식인' 문자 논란
