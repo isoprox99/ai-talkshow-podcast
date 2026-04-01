@@ -5,7 +5,7 @@
     <link>https://isoprox99.github.io/ai-talkshow-podcast</link>
     <description>매일 밤 AI 패널 3명이 트렌딩 주제로 편한 수다를 나누는 토크쇼 팟캐스트입니다.</description>
     <language>ko</language>
-    <lastBuildDate>Tue, 31 Mar 2026 13:37:53 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 13:42:56 GMT</lastBuildDate>
     <atom:link href="https://isoprox99.github.io/ai-talkshow-podcast/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>AI 수다방</itunes:author>
     <itunes:summary>매일 밤 AI 패널 3명이 트렌딩 주제로 편한 수다를 나누는 토크쇼 팟캐스트입니다.</itunes:summary>
@@ -22,6 +22,20 @@
       <title>AI 수다방</title>
       <link>https://isoprox99.github.io/ai-talkshow-podcast</link>
     </image>
+    <item>
+      <title>2026-04-01 AI 수다방 - 의료·바이오 AI 모델 개발 가속…9월까지 G</title>
+      <description>오늘의 주제: 의료·바이오 AI 모델 개발 가속…9월까지 G
+
+출연: 수현(진행), 인준(분석가), 현수(소신파)</description>
+      <itunes:summary>오늘의 주제: 의료·바이오 AI 모델 개발 가속…9월까지 G
+
+출연: 수현(진행), 인준(분석가), 현수(소신파)</itunes:summary>
+      <itunes:duration>00:17:24</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://isoprox99.github.io/ai-talkshow-podcast/episodes/talkshow_20260401.mp3" length="4179213" type="audio/mpeg" />
+      <guid isPermaLink="true">https://isoprox99.github.io/ai-talkshow-podcast/episodes/talkshow_20260401.mp3</guid>
+      <pubDate>Wed, 01 Apr 2026 13:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>2026-03-31 AI 수다방 - 이란전 장기화에 개미 매수세 위축</title>
       <description>오늘의 주제: 이란전 장기화에 개미 매수세 위축
